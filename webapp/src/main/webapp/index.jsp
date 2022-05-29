@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for Ledoux's DevOps Learning</h1>
+    <h1>New user Register for Ledoux songwa's DevOps Learning</h1>
     <br>
     <p>Please fill in this form to create an account.</p>
     <br>
@@ -8,7 +8,7 @@
 
 
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name or email"><b>Enter Name</b></label>
     <br>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
