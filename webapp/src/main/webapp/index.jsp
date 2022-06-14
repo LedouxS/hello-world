@@ -5,7 +5,8 @@
     <p>Please fill in this form to create an account.</p>
     <br>
     <br>
-
+    <p>Please fill in this form to create an account.</p>
+    <br>
 
 
      
